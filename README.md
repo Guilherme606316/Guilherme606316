@@ -1,16 +1,21 @@
-## Hi there 👋
+# Guilherme Moraes Sousa de Oliveira
 
-<!--
-**Guilherme606316/Guilherme606316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu pretendo contribuir com a comunidade do GitHub através de: projetos, conhecimentos e ajuda à outros desenvolvedores.
 
-Here are some ideas to get you started:
+##  Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- HTML
+- CSS
+- Script Lab
+- VBA
+
+## Projetos em destaque
+
+- [Automação no Office](https://github.com/Guilherme606316/Automacao-no-Office)
+
+## Contato
+
+- E-mail: [guilhermemoraesx7@gmail.com](mailto:guilhermemoraesx7@gmail.com)  
+- LinkedIn: [https://www.linkedin.com/in/guilherme-moraes-sousa-de-oliveira-ab0477295](https://www.linkedin.com/in/guilherme-moraes-sousa-de-oliveira-ab0477295)
+- Telefones: (61) 98106-2845/983375610 
