@@ -12,6 +12,7 @@ Eu pretendo contribuir com a comunidade do GitHub através de: projetos, conheci
 
 ## Projetos em destaque
 
+- [Automação com App Script](https://github.com/Guilherme606316/Automa-o-com-App-Script)
 - [Automação no Office](https://github.com/Guilherme606316/Automacao-no-Office.)
 
 ## Contato
